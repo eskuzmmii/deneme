@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+}
+
+div.box1{
+    width: 100px;
+    height: 700px;
+    background-color: yellow;
+    margin-right: 10px;
+    border-style: solid;
+ }
+
+ div.box2 { 
+    width: 100px;
+    height: 700px;
+    background-color: red;
+    border-style: solid;
+    margin-right: 10px;
+ }
+
+ div.box3 { 
+    width: 100px;
+    height: 700px;
+    background-color: blue;
+    border-style: solid;
+    margin-right: 10px;
+ }
+
+ div.box4 { 
+    width: 100px;
+    height: 700px;
+    background-color: green;
+    border-style: solid;
+    margin-right: 10px;
+ }

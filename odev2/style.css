@@ -1,0 +1,39 @@
+div.div1 {
+    border-style: solid;
+    position: absolute;
+    width: 250px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    z-index: 26;
+}
+
+div.div2 { 
+    border-style: solid;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    z-index: 27;
+    top: 100px;
+    left: 200px;
+}
+
+div.div3 { 
+    border-style: solid;
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    top: 280px;
+    background-color: white;
+    z-index: 28;
+}
+
+div.div4 {
+    border-style: solid;
+    position: absolute;
+    width: 150px;
+    height: 400px;
+    left: 450px;
+    background-color: rgb(255, 255, 255);
+    z-index: 29;
+}
